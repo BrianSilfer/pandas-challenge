@@ -1,1 +1,3 @@
 # pandas-challenge
+
+I have included my written report within my pandas script. The only references I used for this assignment was through the help of ChatGPT. No code was copied from Chat GPT, but the concepts and answers to my coding related questions that arose during the assingment such as the .first() method or using the replace.str to get rid of the "$" in order for my code to run correctly. I was unable to find resources that would help me find the .first() code in order to return the budget. This is where Chat GPT helped because it was able to better understand my searches that were failing in google.
